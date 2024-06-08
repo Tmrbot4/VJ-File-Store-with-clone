@@ -47,7 +47,7 @@ DB_NAME = environ.get("DB_NAME", "Clone_vj2")
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "6737943130:AAEB673cn6FUQ-1AuJDXFyw9mqBNlu_t634")
 BOT_USERNAME = environ.get("BOT_USERNAME", "TMR_File_Storee_bot") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/470bb7bf1c9a4aa977cf4.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
